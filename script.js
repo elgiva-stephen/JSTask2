@@ -5,6 +5,3 @@ const data = [
 {Principal: 2000, time: 3}
 ]
 
-function interestCalculator() {
-
-}; 
